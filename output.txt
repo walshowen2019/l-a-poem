@@ -1,0 +1,16 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Volumes/IntelliJ IDEA CE/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=53779:/Volumes/IntelliJ IDEA CE/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/thomaswalsh/IdeaProjects/l(a/out/production/untitled104 Main
+l)a
+
+le
+af
+fa
+
+ll
+
+s)
+one
+l
+
+iness
+
+Process finished with exit code 0
